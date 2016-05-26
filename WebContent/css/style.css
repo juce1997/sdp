@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+{margin:0. padding: 0;}
+p{font-size: 15pt; color: blue;
+  font-family: Arial;}
+#est{letter-spacing: 0.3em;}
+h1#est{letter-spacing: 2.5em;
+	   font-family: Arial;}
+table{ border: 1px solid black;
+				 width: 95%;
+	   font-family: Arial;}
+td, th { border: 1px solid black;
+		font-family: Arial;}
+li{font-size: 15pt; color: blue;
+	font-family: Arial;}
